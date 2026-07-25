@@ -33,9 +33,9 @@ export const about = async (args: string[]): Promise<string> => {
   return `
   <div class="about-output">
   <h2 class="text-2xl"><strong>About Me</strong></h2>
-  <p>Hey! I'm Rhyn (they/them), though you'll find me online as <strong>ffyrnintheforest</strong>.</p>
+  <p>Hey! I'm Ffyrn (they/them), though you'll find me online as <strong>ffyrnintheforest</strong>.</p>
 
-  <p>I started my coding journey in June of 2025 and it's been an incredible ride. Currently, I'm diving deep into <strong>computer science</strong>, exploring <strong>game development</strong>, and building <strong>CLI tools</strong>. There's something deeply satisfying about creating things that actually work and solve real problems, and bring joy to others.</p>
+  <p>I started my coding journey in June of 2025 and it's been an incredible ride. Currently, I'm diving deep into a <strong>computer science degree</strong>, exploring <strong>game development</strong>, and building <strong>CLI tools</strong>. There's something deeply satisfying about creating things that actually work and solve real problems, and bring joy to others.</p>
 
   <h2 class="mt-4 text-xl"><strong>What I'm Building</strong></h2>
   <p>I've built several CLI projects that I'm genuinely proud of, and am learning how to make my own programming language</p>

@@ -26,6 +26,7 @@ const sumfetch = async (args: string[]): Promise<string> => {
       <div class="sumfetch-row"><span class="icon">󰓉</span><span class="description-block"><strong>Fun fact</strong>: ${config.fun_fact}</span></div>
       <div class="sumfetch-row"><span class="icon">󰖸</span><span class="sumfetch-label"><strong>CONTACT</strong>:</span></div>
       <div class="sumfetch-row"><span class="icon">󱡰</span><span class="sumfetch-label"><u><a href="mailto:${config.email}" target="_blank">${config.email}</a></u></span></div>
+      <div class="sumfetch-row"><span class="icon"> </span><span class="sumfetch-label"><u><a href="https://codeberg.org/ffyrnintheforest/${config.social.codeberg}" target="_blank">codeberg - ${config.social.codeberg}</a></u></span></div>
       <div class="sumfetch-row"><span class="icon"></span><span class="sumfetch-label"><u><a href="https://github.com/${config.social.github}" target="_blank">github - ${config.social.github}</a></u></span></div>
       <div class="sumfetch-row"><span class="icon"></span><span class="sumfetch-label"><u><a href="https://linkedin.com/in/${config.social.linkedin}" target="_blank">linkedin - ${config.social.linkedin}</a></u></span></div>
       <div class="sumfetch-row"><span class="icon"></span><span class="sumfetch-label"><u><a href="https://x.com/${config.social.twitter}" target="_blank">twitter - ${config.social.twitter}</a></u></span></div>

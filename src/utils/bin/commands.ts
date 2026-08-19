@@ -70,6 +70,9 @@ export const email = async (args: string[]): Promise<string> => {
 export const codeberg = async (args: string[]): Promise<string> => {
   window.open(`https://codeberg.org/ffyrnintheforest/`);
 
+  return 'Opening codeberg...';
+};
+
 export const github = async (args: string[]): Promise<string> => {
   window.open(`https://github.com/${config.social.github}/`);
 

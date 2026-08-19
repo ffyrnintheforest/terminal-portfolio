@@ -16,16 +16,16 @@
   },
   "currently": " Studying Computer Science with a special interest in the systems level design.",
   "description": " I'm ffyrn (they/them), a developer exploring computer science, game, and CLI dev. I love problem-solving and building joyful, functional things. Outside coding, I'm into fantasy books, Souls-like games, and TTRPGs. Always open to connecting with fellow creators.",
-  "fun_fact": "I lived in Turkey for a month when I was 19. I still remember a few words in Turkish.",
+  "fun_fact": "Before studying Computer Science, I obtained a Bachelor's of Science in Film and did freelance film work for a period.",
   "skills": [
-    "https://skillicons.dev/icons?i=git",
-    "https://skillicons.dev/icons?i=bash"
+    "git",
+    "bash"
   ],
   "next_up": [
-    "https://skillicons.dev/icons?i=go",
-    "https://skillicons.dev/icons?=ipython",
-    "https://skillicons.dev/icons?i=cpp",
-    "https://skillicons.dev/icons?i=java"
+    "go",
+    "python",
+    "java",
+    "cpp"
   ],
   "hobbies": [
     "My cat BMO",
